@@ -14,11 +14,11 @@ export default function Hero() {
 
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black mb-8 leading-tight bg-gradient-to-r from-white via-orange-100 to-white bg-clip-text text-transparent drop-shadow-2xl animate-pulse">
             Kozan Teknik Servis<br />
-            <span className="text-3xl sm:text-4xl lg:text-5xl">Çözüm Merkezi Kozan</span>
+            <span className="text-3xl sm:text-4xl lg:text-5xl text-orange-400">Çözüm Merkezi Kozan</span>
           </h1>
 
           <p className="text-2xl sm:text-3xl mb-12 text-blue-100 font-light">
-            Hızlı, Güvenilir ve Garantili Teknik Servis
+            Kozan'da Beyaz Eşya ve Klima Teknik Servis Hizmeti
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
